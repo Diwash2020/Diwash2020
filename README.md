@@ -44,7 +44,7 @@
 </p>
 
 <a href="https://app.daily.dev/diwashacharya"><img src="https://api.daily.dev/devcards/v2/ckUAxSAwZuCEWp4sO9kY4.png?r=d28" width="400" alt="Diwash acharya's Dev Card"/></a>
-    <a href="https://github.com/coder-dipesh/github-readme-streak-stats">
+    <a href="https://github.com/Diwash2020/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Diwash2020 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Diwash2020&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
