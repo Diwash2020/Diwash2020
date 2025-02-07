@@ -23,11 +23,8 @@
 
 </p>
 
-._. ❤ Views and Followers
+._. ❤ Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=coder-dipesh">
-</a>
 <a href="https://github.com/Diwash2020?tab=followers"><img src="https://img.shields.io/github/followers/Diwash2020?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
