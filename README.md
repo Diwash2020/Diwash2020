@@ -2,7 +2,7 @@
 
 <h3 align="center"> A Geeky guy from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwash2020" alt="diwash2020" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **python**
 
