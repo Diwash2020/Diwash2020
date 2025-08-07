@@ -1,16 +1,14 @@
 <h2>नमस्ते (Namaste) , It's me Diwash Acharya <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
+
 <h3 align="center"> A Geeky guy from Nepal</h3>
-
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em> <b>I love building connection </b> Let's stay in touch 😊</em>
 
 - 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **acharyadiwash327@gmail.com**
 
 - ⚡ Fun fact **I think I AM funny**
-
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -43,10 +41,12 @@
     <a> <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png"></a>
 </p>
 
+
 <a href="https://app.daily.dev/diwashacharya"><img src="https://api.daily.dev/devcards/v2/ckUAxSAwZuCEWp4sO9kY4.png?r=d28" width="400" alt="Diwash acharya's Dev Card"/></a>
-    <a href="https://github.com/Diwash2020/github-readme-streak-stats">
+
+<a href="https://github.com/Diwash2020/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Diwash2020 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Diwash2020&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshuprety" alt="dineshuprety" /></a> </p>
